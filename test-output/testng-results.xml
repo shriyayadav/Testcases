@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="16" total="17" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-22T00:03:37 IST" name="Default suite" finished-at="2021-06-22T00:03:43 IST" duration-ms="6246">
+    <groups>
+    </groups>
+    <test started-at="2021-06-22T00:03:37 IST" name="Default test" finished-at="2021-06-22T00:03:43 IST" duration-ms="6246">
+      <class name="com.com.javabykiran.UserPage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.com.javabykiran.UserPage@5b239d7d]" started-at="2021-06-22T00:03:37 IST" name="setUp" finished-at="2021-06-22T00:03:42 IST" duration-ms="5216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="printUsersFromMaharashtra()[pri:0, instance:com.com.javabykiran.UserPage@5b239d7d]" started-at="2021-06-22T00:03:42 IST" name="printUsersFromMaharashtra" finished-at="2021-06-22T00:03:43 IST" duration-ms="813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printUsersFromMaharashtra -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.com.javabykiran.UserPage@5b239d7d]" started-at="2021-06-22T00:03:43 IST" name="tearDown" finished-at="2021-06-22T00:03:43 IST" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.com.javabykiran.UserPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
